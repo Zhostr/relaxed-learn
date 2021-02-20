@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.base;
 
 import algorithm.base.Array;
 
